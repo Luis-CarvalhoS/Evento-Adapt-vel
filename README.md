@@ -72,8 +72,6 @@ manage.py 🛠️
 
 
 
-Contribuições 🤝
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou relatar qualquer problema encontrado no projeto. Vamos juntos tornar essa experiência ainda melhor! 🤜🤛
 
 Tecnologias utilizadas: 
 
